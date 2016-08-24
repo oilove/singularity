@@ -12,3 +12,7 @@
 
 [MySQL索引背后的数据结构及算法原理](http://blog.codinglabs.org/articles/theory-of-mysql-index.html)
 
+## 2016年08月24日
+
+[IOC容器和Dependency Injection模式](http://martinfowler.com/articles/injection.html#ComponentsAndServices)
+
